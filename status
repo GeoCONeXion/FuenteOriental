@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "Texturing_1",
+    "nodeType": "Texturing",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_texturing  --input \"/home/ricardo/Documentos/FuenteOriental/MeshroomCache/Meshing/6042407539f3c4ecddacdad958a20e6e6e072f25/densePointCloud.abc\" --imagesFolder \"/home/ricardo/Documentos/FuenteOriental/MeshroomCache/PrepareDenseScene/7028a83026ccd2cc919c34f8dc1baa78f6757e43\" --inputMesh \"/home/ricardo/Documentos/FuenteOriental/MeshroomCache/MeshDecimate/bf6320612469104b9f3bcd6891a714b3b37393a3/mesh.obj\" --textureSide 8192 --downscale 2 --outputTextureFileType png --unwrapMethod Basic --useUDIM True --fillHoles False --padding 5 --multiBandDownscale 4 --multiBandNbContrib 1 5 10 0 --useScore True --bestScoreThreshold 0.1 --angleHardThreshold 90.0 --processColorspace sRGB --correctEV False --forceVisibleByAllVertices False --flipNormals False --visibilityRemappingMethod PullPush --subdivisionTargetRatio 0.8 --verboseLevel info --output \"/home/ricardo/Documentos/FuenteOriental/MeshroomCache/Texturing/2f56d03179cccc169351bf4dd8aa08ad72426e8a\"",
+    "env": null,
+    "startDateTime": "2022-06-29 11:40:59.866684",
+    "endDateTime": "2022-06-29 11:46:22.560040",
+    "elapsedTime": 322.70725202560425,
+    "hostname": "ricardo-To-be-filled-by-O-E-M",
+    "sessionUid": "cc2789ee-f7c1-11ec-a4eb-3f6bc0dc3543",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:05:22.707252"
+}
